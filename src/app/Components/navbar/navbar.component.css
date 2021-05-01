@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #3c8686;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+    color:#5bdec6;
+}
+
+.active{
+    color:#5bdec6 !important;
+}
